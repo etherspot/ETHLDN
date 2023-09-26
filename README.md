@@ -2,11 +2,14 @@
 
 We are excited to invite developers to hack on the Account Abstraction track! Etherspot is offering a total of $5,000 in prizes to those who strive to implement Account Abstraction into their projects and help onboard the next billion users to Web3. 
 
+The hackathon is running from 27th-29th October, 2023.
+
+You can join the hackathon telegram chat [here](https://t.me/+YaHFBekySLk0ZjQ8)
+
 ## 🏆 Etherspot Bounties: Total of $5,000
 
 ### 1. Best implementation of Etherspot’s TransactionKit $2,550
 
-The prize includes $2,000 in USDC + a $550 voucher for a one-year subscription to the Etherspot services.
 
 Ideas of use-cases:
 
@@ -15,6 +18,7 @@ Ideas of use-cases:
 - Simplifying user interaction with NFTs.
 - Building a great social-fi app using Account Abstraction.
 
+The prize includes $2,000 in USDC + a $550 voucher for a one-year subscription to the Etherspot services.
 
 ### 2. Best contribution to Etherspot’s Arka paymaster service source code to integrate a new paymaster $1,250
 
@@ -41,10 +45,10 @@ The prize includes $500 in USDC + a $100 voucher for a two-month subscription to
 Etherspot is an ERC-4337 development infrastructure that provides solutions for dApps, protocols, games, and wallets to deliver frictionless Web3 UX for their end-users. Etherspot leverages Account Abstraction to enable smooth onboarding for new users, and abstract away complex blockchain operations.
 
 Etherspot offers the following AA services:
-Account Abstraction Prime SDK. From social logins to transaction batching, using an Etherspot smart wallet can give your dApp a Web2 like interface to ensure the user has a seamless experience.
-TransactionKit is a smart account react library for fast & simple Web3 development.
-Skandha Bundler. It bundles userOperations together to ensure multiple transactions are included on chain at a lower cost.
-Arka Paymaster is an open-source Paymaster service for gasless & sponsored transactions.
+- Account Abstraction Prime SDK. From social logins to transaction batching, using an Etherspot smart wallet can give your dApp a Web2 like interface to ensure the user has a seamless experience.
+- TransactionKit is a smart account react library for fast & simple Web3 development.
+- Skandha Bundler. It bundles userOperations together to ensure multiple transactions are included on chain at a lower cost.
+- Arka Paymaster is an open-source Paymaster service for gasless & sponsored transactions.
 
 ## 🛠️ Resources for hackers
 
