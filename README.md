@@ -28,9 +28,11 @@ Ideas of use-cases:
 
 The prize includes $500 in USDC + a $100 voucher for a two-month subscription to the Etherspot services.
 
-### 4. Best dapp for assigning guardians to an Etherspot wallet $600
+### 4. Best security implentation $600
 
-Etherspot's smart contracts let's users assign guardians to their wallet for security purposes, currently we do not have a dapp for this.
+Ideas of use-cases:
+- Etherspot's smart contracts let's users assign guardians to their wallet for security purposes, currently we do not have a dapp for this.
+- Social recovery.
 
 The prize includes $500 in USDC + a $100 voucher for a two-month subscription to the Etherspot services.
 
