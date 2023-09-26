@@ -20,9 +20,12 @@ Ideas of use-cases:
 
 The prize includes $1,000 in USDC + a $250 voucher for a five-month subscription to the Etherspot services.
 
-### 3. Best development of Family Sponsor/Paymaster $600
+### 3. Best use of Arka paymaster $600
 
-Making it easy for one smart wallet to sponsor other wallets for certain/all transactions. 
+Ideas of use-cases:
+- Crypto Venmo alternative using Paymaster, send money to emails/socials without having a wallet yet.
+- Family sponsor dapp - let one smart wallet sponsor a group of wallets transactions.
+
 The prize includes $500 in USDC + a $100 voucher for a two-month subscription to the Etherspot services.
 
 ### 4. Best dapp for assigning guardians to an Etherspot wallet $600
