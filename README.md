@@ -1,8 +1,10 @@
-# Etherspot Account Abstraction bounties for ETHLondon 👨‍💻🇬🇧
+# Etherspot @ ETHLondon 👨‍💻🇬🇧
 
 We are excited to invite developers to hack on the Account Abstraction track! Etherspot is offering a total of $5,000 in prizes to those who strive to implement Account Abstraction into their projects and help onboard the next billion users to Web3. 
 
 The hackathon is running from 27th-29th October, 2023.
+
+[Here is the link to register for the hackathon.](https://www.encode.club/eth-london)
 
 You can join the hackathon telegram chat [here](https://t.me/+YaHFBekySLk0ZjQ8)
 
@@ -50,16 +52,40 @@ Etherspot offers the following AA services:
 - Skandha Bundler. It bundles userOperations together to ensure multiple transactions are included on chain at a lower cost.
 - Arka Paymaster is an open-source Paymaster service for gasless & sponsored transactions.
 
-## 🛠️ Resources for hackers
+## 🛠️ Hacker kit
+
+This section will provide all of the resources that you need to get building on the blockchain with Etherspot and Account Abstraction.
+
+### Etherspot Docs
+[Etherspot documentation](https://etherspot.fyi)
 
 [TransactionKit documentation](https://etherspot.fyi/transaction-kit/introduction-to-transaction-kit)
 
+[TransactionKit React Components](https://etherspot.fyi/transaction-kit/components/EtherspotTransactionKit)
+
+[TransactionKit React Hooks](https://etherspot.fyi/transaction-kit/hooks/useEtherspotTransactions)
+
+[Sponsoring transactions with TransactionKit](https://etherspot.fyi/transaction-kit/paymaster)
+
+
+### Demo code 
+[TransactionKit send native token example](https://codesandbox.io/s/etherspot-prime-send-native-token-chg8jb)
+
+[TransactionKit staking example](https://codesandbox.io/s/staking-demo-transaction-kit-forked-gf8w4l) which you can check out to see how to do custom contract interactions.
+
+### Videos 
 [TransactionKit Tutorials](https://youtube.com/playlist?list=PLwO4AX1v74TOFoVilh6kOF9VOlW6opkgW&si=Bzp4dEboa-DYB_Lq)
 
-[TransactionKit code sandbox demo](https://doh5im.csb.app/)
+### Network configuration
+[Here](https://etherspot.fyi/prime-sdk/chains-supported) you can see the chains that we support.
 
-[Etherspot documentation](https://etherspot.fyi)
+### Account Abstraction Information
+[Here](https://etherspot.fyi/account-abstraction/accountabstraction) you can find out more about Account Abstraction.
 
-[For more tutorials and video visit Etherspot’s YouTube channel](https://www.youtube.com/@etherspot)
+### Solidity Resources
+[Solidity by Example](https://solidity-by-example.org/)
 
-If you have any questions, do not hesitate to chat with the team on [Discord](https://discord.etherspot.io/) or tag @taylorferran at the ETHLondon hackathon chat on Telegram. 
+
+## Contact
+
+If you have any questions, do not hesitate to chat with the team on [Discord](https://discord.etherspot.io/) or @taylorferran on Telegram.
