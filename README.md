@@ -10,6 +10,9 @@ You can join the hackathon telegram chat [here](https://t.me/+YaHFBekySLk0ZjQ8)
 
 ## 🏆 Etherspot Bounties: Total of $5,000
 
+
+**To be eligible for Etherspot bounties you must be able to show a valid submitted userOp, please ask us if you have any queries on this.**
+
 ### 1. Best implementation of Etherspot’s TransactionKit $2,550
 
 
@@ -23,9 +26,9 @@ Ideas of use-cases:
 
 The prize includes $2,000 in USDC + a $550 voucher for a one-year subscription to the Etherspot services.
 
-### 2. Best contribution to Etherspot’s Arka paymaster service source code to integrate a new paymaster $1,250
+### 2. Best contribution to Etherspot’s Arka paymaster service source code to integrate a new paymaster $750
 
-The prize includes $1,000 in USDC + a $250 voucher for a five-month subscription to the Etherspot services.
+The prize includes $500 in USDC + a $250 voucher for a five-month subscription to the Etherspot services.
 
 ### 3. Best use of Arka paymaster $600
 
@@ -43,6 +46,14 @@ Ideas of use-cases:
 - Social recovery.
 
 The prize includes $500 in USDC + a $100 voucher for a two-month subscription to the Etherspot services.
+
+### 5. API3 <> Etherspot: Best Sports Betting Application $1000
+
+Using Etherspot's Account Abstraction services and API3's sports oracles, 
+hackers will be able to create a sports betting application with a great UX.
+
+To read more about the API3 side of things or get help, please check [here](https://github.com/api3-ecosystem/EthLdn) or contact them in Telegram.
+
 
 ## 🐞 Etherspot Introduction 
 
