@@ -47,7 +47,7 @@ Ideas of use-cases:
 
 The prize includes $500 in USDC + a $100 voucher for a two-month subscription to the Etherspot services.
 
-### 5. API3 <> Etherspot: Best Sports Betting Application $1000
+### 5. API3 <> Etherspot: Best Sports Betting Application $2000
 
 Using Etherspot's Account Abstraction services and API3's sports oracles, 
 hackers will be able to create a sports betting application with a great UX.
