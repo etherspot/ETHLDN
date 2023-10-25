@@ -8,7 +8,7 @@ The hackathon is running from 27th-29th October, 2023.
 
 You can join the hackathon telegram chat [here](https://t.me/+YaHFBekySLk0ZjQ8)
 
-## 🏆 Etherspot Bounties: Total of $5,000
+## 🏆 Etherspot Bounties: Total of $5,500
 
 
 **To be eligible for Etherspot bounties you must be able to show a valid submitted userOp, please ask us if you have any queries on this.**
