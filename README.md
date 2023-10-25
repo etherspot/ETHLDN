@@ -16,9 +16,10 @@ You can join the hackathon telegram chat [here](https://t.me/+YaHFBekySLk0ZjQ8)
 Ideas of use-cases:
 
 - Providing seamless user experience in any dApp, game, protocol, wallet.
-- Adding cross-chain liquidity to any DeFi dapp.
+- Adding cross-chain liquidity to any DeFi dapp. [Video example here.](https://www.youtube.com/watch?v=dGGKPJsn52Q)
 - Simplifying user interaction with NFTs.
 - Building a great social-fi app using Account Abstraction.
+- Creating an in browser game which interacts with smart contracts.
 
 The prize includes $2,000 in USDC + a $550 voucher for a one-year subscription to the Etherspot services.
 
@@ -31,13 +32,14 @@ The prize includes $1,000 in USDC + a $250 voucher for a five-month subscription
 Ideas of use-cases:
 - Crypto Venmo alternative using Paymaster, send money to emails/socials without having a wallet yet.
 - Family sponsor dapp - let one smart wallet sponsor a group of wallets transactions.
+- Subscription based service which pays for all a users transactions.
 
 The prize includes $500 in USDC + a $100 voucher for a two-month subscription to the Etherspot services.
 
 ### 4. Best security implentation $600
 
 Ideas of use-cases:
-- Etherspot's smart contracts let's users assign guardians to their wallet for security purposes, currently we do not have a dapp for this.
+- Etherspot's smart contracts let's users assign guardians to their wallet for security purposes, currently we do not have a dapp/frontend for this.
 - Social recovery.
 
 The prize includes $500 in USDC + a $100 voucher for a two-month subscription to the Etherspot services.
