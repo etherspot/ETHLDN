@@ -98,6 +98,14 @@ This section will provide all of the resources that you need to get building on 
 ### Solidity Resources
 [Solidity by Example](https://solidity-by-example.org/)
 
+### Testnet Faucets
+
+https://mumbaifaucet.com/
+
+https://faucet.polygon.technology
+
+If you can't get any of these working let us know and we'll help out or send you some test funds ourselves.
+
 
 ## Contact
 
