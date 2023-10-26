@@ -100,6 +100,10 @@ This section will provide all of the resources that you need to get building on 
 
 ### Testnet Faucets
 
+[Join our discord to make use of our faucet.](https://discord.com/invite/GAkYj6m5Uh)
+
+Or try these links:
+
 https://mumbaifaucet.com/
 
 https://faucet.polygon.technology
